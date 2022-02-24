@@ -3,4 +3,4 @@
 - The search option and input field allows user to search for various foods. 
 - The random button is also provided to give a random recipe.
 
-![Meal Finder](https://screenbud.com/s/xYIv2hMFfMK)
+![Meal Finder](/screenbud-01be793c-656f-4608-b552-7a0deb3f8a32.png)
